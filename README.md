@@ -8,3 +8,5 @@ http://blog.anxpp.com/index.php/archives/489/
 或者
 
 http://blog.csdn.net/anxpp/article/details/51224293
+
+![avatar](设计模式分类.png)
